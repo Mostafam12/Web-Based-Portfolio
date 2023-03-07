@@ -37,7 +37,7 @@ export const projects = [
     description:
       "You're here! A website used to showcase my projects and web-development/UI-design skills.",
     image: "./portfolio.jpg",
-    link: "https://mostafamahmoud.com"
+    link: "https://github.com/Mostafam12/Web-Based-Portfolio"
   }
 ];
 
