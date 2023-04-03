@@ -19,7 +19,7 @@ export default function Skills() {
             <br></br>
             In the first section, green denotes skills I'm proficient and confident using.
             <br></br>
-            In the second section, yellow denots skills I'm currently learning but feel comfortable using.
+            In the second section, yellow denotes skills I'm currently learning but feel comfortable using.
             <br></br>
             In the third section, blue denotes soft skills that are relevant to my career path.
           </p>
