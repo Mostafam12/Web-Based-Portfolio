@@ -17,12 +17,12 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          <a href="https://github.com/Mostafam12/Resume/blob/main/Mostafa%20Mahmoud%20-%20Software%20Engineer%20Internship%20Resume.pdf" className="mr-5 hover:text-white">
+          <a href="https://github.com/Mostafam12/Resume/blob/main/Mostafa%20Mahmoud%20Resume.pdf" target="_blank" className="mr-5 hover:text-white">
             Resume
           </a>
         </nav>
         <a
-          href="https://www.linkedin.com/in/mostafa-mahmoud-98280316a/"
+          href="https://www.linkedin.com/in/mostafa-mahmoud-98280316a/" target="_blank"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           Connect With Me!
           <ArrowRightIcon className="w-4 h-4 ml-1" />

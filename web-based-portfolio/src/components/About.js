@@ -34,7 +34,8 @@ export default function About() {
           </p>
           <div className="flex justify-center">
             <a
-              href="https://github.com/Mostafam12/Resume/blob/main/Mostafa%20Mahmoud%20-%20Software%20Engineer%20Internship%20Resume.pdf"
+              href="https://github.com/Mostafam12/Resume/blob/main/Mostafa%20Mahmoud%20Resume.pdf"
+              target="_blank"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
               My Resume
             </a>

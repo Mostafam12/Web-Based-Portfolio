@@ -32,6 +32,14 @@ export const projects = [
     link: "https://github.com/Mostafam12/Double-MNIST-Image-Recognition-and-Classification",
   },
   {
+    title: "QRMon Mobile Game",
+    subtitle: "Android Studio (Java) & HTML",
+    description: 
+      "A mobile game akin to Pokemon GO! where users hunt around for any QR Codes and scan them. QR Codes generate unique monsters worth some amount of points. Collect and compare monsters and scores with your friends!",
+      image: "./QRMon.jpg",
+      link: "https://github.com/Mostafam12/QRMon-Game"
+  },
+  {
     title: "Web Based Portfolio",
     subtitle: "HTML & JavaScript & React & TailwindCSS",
     description:
@@ -40,6 +48,11 @@ export const projects = [
     link: "https://github.com/Mostafam12/Web-Based-Portfolio"
   }
 ];
+
+const imageStyle = {
+  objectFit: 'contain',
+};
+
 
 export const skills = [
   "Python",
