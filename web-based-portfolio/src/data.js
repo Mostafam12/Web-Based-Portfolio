@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Python & MatplotLib & NumPy",
     description:
       "Unsupervised learning system using Q-learning algorithm to guide a character through a 2D maze using a reward system in which they must avoid hazardous spots as well as retrieve a key and find the exit door.",
-    image: "./MazeEscaper2.gif",
+    image: "./MazeEscaper.gif",
     link: "https://github.com/Mostafam12/Unsupervised-Q-Learning-demo",
   },
   {
