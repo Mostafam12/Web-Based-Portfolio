@@ -17,7 +17,7 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          <a href="https://github.com/Mostafam12/Resume/blob/main/Mostafa%20Mahmoud%20Resume.pdf" target="_blank" className="mr-5 hover:text-white">
+          <a href="https://github.com/Mostafam12/Resume/blob/main/Mostafa%20Mahmoud%20-%20SE%20Resume.pdf" target="_blank" className="mr-5 hover:text-white">
             Resume
           </a>
         </nav>
