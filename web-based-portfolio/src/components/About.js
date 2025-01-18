@@ -14,23 +14,24 @@ export default function About() {
                         typeSpeed={100}
                     />
           <p className="mb-8 leading-relaxed">
-            I'm a fourth-year undergraduate student at the University of Alberta currently enrolled in a Specialization in Computer Science program.
-            I'm passionate about computer science and technology, and I'm always looking for ways to expand my knowledge and skills in these fields.
+            I recently graduated from the University of Alberta with a Bachelor of Science with specialization in Computer Science. My journey has been defined by a passion for technology, learning and problem solving, complemented by internship experience across diverse roles in software development and data analysis.
           </p>
 
           <p className="mb-8 leading-relaxed">
-            I am currently working as a Research Analyst Intern at the University of Alberta, where I've had the opportunity to closely collaborate with researchers, diving deep into their needs and crafting user-friendly interfaces to enhance their workflows.
-                          My role often sees me meticulously handling data, ensuring its accuracy, consistency, and integrity, which is vital for the success of research projects. 
-                          Beyond the technical tasks, I've taken an active role in knowledge sharing, assisting in drafting documentation, troubleshooting guides, and knowledge base articles. This not only streamlines processes but also empowers researchers to troubleshoot independently. 
-                          Moreover, I provide hands-on technical support, addressing both hardware and software challenges faced by researchers.            
-            
-                          </p>
+            Throughout my career, I’ve contributed to innovative projects in multiple capacities:
+          </p>
+          <ul className="mb-8 leading-relaxed list-disc list-inside">
+            <li><strong>AI Water CleanTech Engineer:</strong> Enhanced data analysis efficiency by designing robust pipelines, integrating APIs like PubChem, and deploying scalable cloud services.</li>
+            <li><strong>Research Technology Intern:</strong> Developed backend software for research tools, implemented seamless data integration systems, and ensured data integrity for impactful research projects.</li>
+            <li><strong>SQL Developer:</strong> Architected secure, high-performance relational databases and optimized data queries to support scalable applications.</li>
+            <li><strong>Business Operations Analyst:</strong> Streamlined workflows and performed cost analyses to help startups optimize operations and remain competitive.</li>
+          </ul>
+
 
           <p className="mb-8 leading-relaxed">
-            I have a strong academic background in computer science with a focus on data analysis, management, and machine learning.
-            I have completed courses in File and Database Management, Algorithms and Data Structures, Formal Systems 
-            & Mathematical Logic, Visual Recognition, Information Retrieval, Object-oriented design, Software Practices, Natural-Language Processing, Mobile App Development, and  
-            Machine Learning & Intelligent Systems.
+            These experiences have equipped me with a strong foundation in software development and data analysis. I’m passionate about creating impactful solutions and am actively seeking opportunities to apply my expertise in innovative projects.
+
+Explore my portfolio to learn more about my journey and the projects I’ve worked on!
           </p>
           <div className="flex justify-center">
             <a
